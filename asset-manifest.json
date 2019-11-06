@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/static/css/main.34de6062.chunk.css",
-    "main.js": "/static/js/main.ee3a3813.chunk.js",
-    "main.js.map": "/static/js/main.ee3a3813.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.d1513aee.js",
-    "runtime-main.js.map": "/static/js/runtime-main.d1513aee.js.map",
-    "static/js/2.65fe9fd1.chunk.js": "/static/js/2.65fe9fd1.chunk.js",
-    "static/js/2.65fe9fd1.chunk.js.map": "/static/js/2.65fe9fd1.chunk.js.map",
-    "index.html": "/index.html",
-    "precache-manifest.b9760eb85eef5e3e485498a6bdb6bab6.js": "/precache-manifest.b9760eb85eef5e3e485498a6bdb6bab6.js",
-    "service-worker.js": "/service-worker.js",
-    "static/css/main.34de6062.chunk.css.map": "/static/css/main.34de6062.chunk.css.map"
+    "main.css": "/laboratorioreact/static/css/main.34de6062.chunk.css",
+    "main.js": "/laboratorioreact/static/js/main.ee3a3813.chunk.js",
+    "main.js.map": "/laboratorioreact/static/js/main.ee3a3813.chunk.js.map",
+    "runtime-main.js": "/laboratorioreact/static/js/runtime-main.d149f2d4.js",
+    "runtime-main.js.map": "/laboratorioreact/static/js/runtime-main.d149f2d4.js.map",
+    "static/js/2.65fe9fd1.chunk.js": "/laboratorioreact/static/js/2.65fe9fd1.chunk.js",
+    "static/js/2.65fe9fd1.chunk.js.map": "/laboratorioreact/static/js/2.65fe9fd1.chunk.js.map",
+    "index.html": "/laboratorioreact/index.html",
+    "precache-manifest.b09645e9eac8c5e537cd5acd69dde6e0.js": "/laboratorioreact/precache-manifest.b09645e9eac8c5e537cd5acd69dde6e0.js",
+    "service-worker.js": "/laboratorioreact/service-worker.js",
+    "static/css/main.34de6062.chunk.css.map": "/laboratorioreact/static/css/main.34de6062.chunk.css.map"
   },
   "entrypoints": [
-    "static/js/runtime-main.d1513aee.js",
+    "static/js/runtime-main.d149f2d4.js",
     "static/js/2.65fe9fd1.chunk.js",
     "static/css/main.34de6062.chunk.css",
     "static/js/main.ee3a3813.chunk.js"
